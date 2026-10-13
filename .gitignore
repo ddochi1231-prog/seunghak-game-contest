@@ -1,0 +1,7 @@
+# 학생 원본 파일·안내 문서는 저장소에 올리지 않음 (웹에 필요한 건 web/ 안에 이미 변환되어 있음)
+*.ent
+*.pdf
+outputs/
+_work/
+.claude/
+__pycache__/
